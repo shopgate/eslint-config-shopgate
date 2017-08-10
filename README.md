@@ -153,7 +153,7 @@ const funcB = (params) {
 
 <a id="single-line-objects"></a><a name="4.1"></a>
 #### Single line objects 
-If an object is defined with multiple properties then each property should each occupy a new line.
+If an object is defined with multiple properties then each property should occupy a new line.
 
 ```javascript
 // bad
