@@ -57,8 +57,8 @@ No code should be left commented out.
 **[⬆ back to top](#rules)**
 
 <a id="comma-dangle"></a><a name="1.2"></a>
-#### Comme dangle
-Dangling commas are required for objects with multiple items or properties. This applied to `Array`, `Object`, `Import` and `Export`.
+#### Comma dangle
+Dangling commas are required for objects with multiple items or properties. This applies to `Array`, `Object`, `Import` and `Export`.
 
 ```javascript
 // bad
@@ -153,7 +153,7 @@ const funcB = (params) {
 
 <a id="single-line-objects"></a><a name="4.1"></a>
 #### Single line objects 
-If an object is defined with multiple properties then these properties should each occupy a new line.
+If an object is defined with multiple properties then each property should each occupy a new line.
 
 ```javascript
 // bad
