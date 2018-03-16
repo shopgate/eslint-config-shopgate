@@ -1,3 +1,5 @@
+> ## Attention: This repository has moved. For the latest version please check [@shopgate/pwa](https://github.com/shopgate/pwa/tree/master/utils/eslint-config)
+
 # Shopgate Eslint Configuration
 
 Shopgate's reasonable approach to JavaScript.
